@@ -1,75 +1,21 @@
-# Nuxt Minimal Starter
+# Zero One - A Nuxt Template
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Using ESLint, Prettier, Google Fonts and Tailwind.css
 
-## Setup
-
-Make sure to install dependencies:
+## Setup and commands
 
 ```bash
-# npm
-npm install
-
-# pnpm
+# Make sure to install dependencies
 pnpm install
 
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
+# Start the development server on `http://localhost:3000`
 pnpm dev
 
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
+# Build the application for production
 pnpm build
 
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
+# Locally preview production build:
 pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
