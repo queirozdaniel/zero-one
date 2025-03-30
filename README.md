@@ -6,7 +6,14 @@ Using ESLint, Prettier, Google Fonts and Tailwind.css
 
 ```bash
 
+# Use default template
 npx nuxi init <your-project-name> -t gh:queirozdaniel/zero-one
+
+# Using Primevue
+npx nuxi init <your-project-name> -t gh:queirozdaniel/zero-one#primevue
+
+# Using Shadcn (Created with 'New York' and 'Zinc' color)
+npx nuxi init <your-project-name> -t gh:queirozdaniel/zero-one#shadcn
 
 ```
 
