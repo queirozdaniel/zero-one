@@ -2,6 +2,14 @@
 
 Using ESLint, Prettier, Google Fonts and Tailwind.css
 
+## Create your project by this Template
+
+```bash
+
+npx nuxi init <your-project-name> -t gh:queirozdaniel/zero-one
+
+```
+
 ## Setup and commands
 
 ```bash
