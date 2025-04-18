@@ -3,7 +3,13 @@ import path from 'path'
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@primevue/nuxt-module'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts',
+    '@primevue/nuxt-module',
+    '@vueuse/nuxt',
+    '@hebilicious/vue-query-nuxt',
+  ],
 
   css: ['primeicons/primeicons.css'],
 

@@ -19,11 +19,14 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@hebilicious/vue-query-nuxt": "^0.3.0",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.12.2",
     "@primevue/forms": "^4.3.3",
     "@primevue/nuxt-module": "^4.2.5",
     "@primevue/themes": "^4.2.5",
+    "@tanstack/vue-query": "^5.74.5",
+    "@vueuse/nuxt": "13.1.0",
     "nuxt": "^3.16.1",
     "primeicons": "^7.0.0",
     "primevue": "^4.2.5",
