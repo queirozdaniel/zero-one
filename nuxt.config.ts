@@ -1,7 +1,13 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', 'shadcn-nuxt'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts',
+    'shadcn-nuxt',
+    '@vueuse/nuxt',
+    '@hebilicious/vue-query-nuxt',
+  ],
 
   googleFonts: {
     base64: true,
