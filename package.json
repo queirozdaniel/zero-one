@@ -19,8 +19,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@hebilicious/vue-query-nuxt": "^0.3.0",
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/tailwindcss": "^6.12.2",
+    "@tanstack/vue-query": "^5.74.5",
+    "@vueuse/nuxt": "13.1.0",
     "nuxt": "^3.16.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
