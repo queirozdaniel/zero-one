@@ -24,7 +24,7 @@
     "@nuxtjs/tailwindcss": "^6.12.2",
     "@tanstack/vue-query": "^5.74.5",
     "@vueuse/nuxt": "13.1.0",
-    "nuxt": "^3.16.1",
+    "nuxt": "^4.0.3",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0",
     "zod": "^3.25.28"
@@ -39,5 +39,5 @@
     "tailwindcss": "^3.4.17",
     "typescript": "^5.7.2"
   },
-  "packageManager": "pnpm@10.6.5+sha512.cdf928fca20832cd59ec53826492b7dc25dc524d4370b6b4adbf65803d32efaa6c1c88147c0ae4e8d579a6c9eec715757b50d4fa35eea179d868eada4ed043af"
+  "packageManager": "pnpm@10.15.0"
 }
